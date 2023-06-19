@@ -1,3 +1,5 @@
+# Customer-Segmentation
+
 The customer segmentation system is a process of dividing a company's customer base into distinct groups or segments based on their shared characteristics, behaviors, or preferences. It aims to better understand customers, tailor marketing strategies, and improve overall business performance. Here's a general description of a customer segmentation system:
 
 Data Collection: The system starts by collecting relevant data about customers. This data can come from various sources such as customer surveys, transaction history, demographic information, website interactions, and social media activity. The collected data may include attributes like age, gender, location, purchase history, browsing behavior, customer satisfaction scores, and more.
